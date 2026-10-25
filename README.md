@@ -304,15 +304,3 @@ A more detailed description of the methodology, theory, and individual assignmen
 ```text
 docs/report.md
 ```
-
----
-
-## Project Context
-
-This repository contains a **reimplementation of the original university Digital Image Processing assignment**.
-
-The original source code is no longer available, so the project was recreated from the original assignment requirements and supplied image files.
-
-It is not presented as the byte-for-byte original university submission.
-
-The implementation remains intentionally close to the educational scope of the original course project.
